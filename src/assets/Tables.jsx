@@ -99,7 +99,7 @@ const Tables = () => {
                   <img
                     style={{ transform: "scale(0.6)", borderRadius: "10px" }}
                     className="img-fluid"
-                    src="one.png"
+                    src="../images/one.png"
                   />
                 </span>
                 <div>
@@ -122,7 +122,7 @@ const Tables = () => {
                   <img
                     style={{ transform: "scale(0.6)", borderRadius: "10px" }}
                     className="img-fluid"
-                    src="two.png"
+                    src="../images/two.png"
                   />
                 </span>
                 <div>
