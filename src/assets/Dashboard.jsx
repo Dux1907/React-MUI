@@ -92,7 +92,7 @@ const Dashboard = () => {
             <span>
               <img
                 style={{ height: "40px", borderRadius: "50%" }}
-                src="../images/IMG_20230131_150407_785.jpg"
+                src="./images/IMG_20230131_150407_785.jpg"
                 alt="Profile Image"
              
               />
