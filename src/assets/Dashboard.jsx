@@ -105,7 +105,7 @@ const Dashboard = () => {
         ) : (
           <img
             style={{ height: "22px", borderRadius: "50%" }}
-            src="IMG_20230131_150407_785.jpg"
+            src="/static/images/IMG_20230131_150407_785.jpg"
             alt="Profile Image"
           />
         )}
