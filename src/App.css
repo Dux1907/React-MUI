@@ -1,0 +1,29 @@
+.h6:hover {
+  background-color: #2d2d69;
+}
+
+.items {
+  padding: 8px 16px;
+}
+
+.small-input-field {
+  width: 85%;
+  transform: scale(0.9)
+}
+
+.smaller-input-field {
+  width: 30%;
+  transform: scale(0.9);
+  display: float;
+  float: right;
+}
+
+.grey {
+  color: #808080;
+  font-size: 12px;
+}
+
+.bottom-align {
+  vertical-align: middle;
+  font-size: 14px;
+}
